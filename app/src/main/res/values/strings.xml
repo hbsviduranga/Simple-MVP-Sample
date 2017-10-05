@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Sample</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_msg">Welcome %1$s, \n to MVP World !!!"</string>
+</resources>
